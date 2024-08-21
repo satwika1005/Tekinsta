@@ -10,6 +10,7 @@ namespace EvenOdd
     {
         static void Main(string[] args)
         {
+            //even and odd numbers 
             Console.WriteLine("program to Print numbers from 1 to 100");
             for (int i=1; i<=100; i++)
             {
